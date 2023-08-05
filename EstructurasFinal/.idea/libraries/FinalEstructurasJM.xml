@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FinalEstructurasJM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/FinalEstructurasJM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
